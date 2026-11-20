@@ -1,0 +1,81 @@
+{
+ "corpCode": "00153861",
+ "corpName": "태영건설",
+ "stockCode": "009410",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권및기타채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 2174483568714,
+   "operatingIncome": 52789167779,
+   "netIncome": 95829321273,
+   "assets": 4127053459058,
+   "liabilities": 3484163079501,
+   "equity": 642890379557,
+   "currentAssets": 1642557541666,
+   "currentLiabilities": 2435212777936,
+   "cash": 383478032241,
+   "receivables": 523522185657,
+   "capitalStock": 149120026000,
+   "operatingCashFlow": 115087827658,
+   "interestExpense": 44423521534
+  },
+  {
+   "year": 2024,
+   "revenue": 2686174110954,
+   "operatingIncome": 20642182140,
+   "netIncome": 66803953317,
+   "assets": 4323923757006,
+   "liabilities": 3796724785337,
+   "equity": 527198971669,
+   "currentAssets": 2195061005399,
+   "currentLiabilities": 2499973532470,
+   "cash": 344674696792,
+   "receivables": 695344371323,
+   "capitalStock": 147252797500,
+   "operatingCashFlow": 61614346825,
+   "interestExpense": 97336777156
+  },
+  {
+   "year": 2023,
+   "revenue": 3352921775830,
+   "operatingIncome": -404531815195,
+   "netIncome": -1456960619972,
+   "assets": 4640488559862,
+   "liabilities": 5080708761456,
+   "equity": -440220201594,
+   "currentAssets": 2241268819819,
+   "currentLiabilities": 4414397329194,
+   "cash": 224569253923,
+   "receivables": 627951861207,
+   "capitalStock": 20100620000,
+   "operatingCashFlow": -302290575812,
+   "interestExpense": 161320091990
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": "(1) 상장폐지사유발생\n(2) 금융채권자협의회의 공동관리절차 개시\n(3) 재무제표 재작성\n(4) 회계정책의 변경"
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001574",
+ "fetchedAt": "2026-11-19"
+}

@@ -1,0 +1,81 @@
+{
+ "corpCode": "00300557",
+ "corpName": "위니아",
+ "stockCode": "071460",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 26703874532,
+   "operatingIncome": -48418430993,
+   "netIncome": -53447044979,
+   "assets": 63947297270,
+   "liabilities": 574346960479,
+   "equity": -510399663209,
+   "currentAssets": 21331079102,
+   "currentLiabilities": 558829673502,
+   "cash": 11145512383,
+   "receivables": 1432709621,
+   "capitalStock": 17983647500,
+   "operatingCashFlow": -11721562023,
+   "interestExpense": 1458209891
+  },
+  {
+   "year": 2024,
+   "revenue": 103551688685,
+   "operatingIncome": -91332138483,
+   "netIncome": -168990909958,
+   "assets": 99048369281,
+   "liabilities": 545749997367,
+   "equity": -446701628086,
+   "currentAssets": 32279402708,
+   "currentLiabilities": 520777879291,
+   "cash": 9102275394,
+   "receivables": 4370848608,
+   "capitalStock": 17983647500,
+   "operatingCashFlow": 5568414537,
+   "interestExpense": 638002394
+  },
+  {
+   "year": 2023,
+   "revenue": 353187317136,
+   "operatingIncome": -281218785631,
+   "netIncome": -301913373895,
+   "assets": 200173568888,
+   "liabilities": 470813066483,
+   "equity": -270639497595,
+   "currentAssets": 76648377601,
+   "currentLiabilities": 439050522559,
+   "cash": 1483423397,
+   "receivables": 11766123488,
+   "capitalStock": 17983647500,
+   "operatingCashFlow": -40454949412,
+   "interestExpense": 13181628472
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "한울회계법인",
+   "opinion": "의견거절",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "한울회계법인",
+   "opinion": "의견거절",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "안경회계법인",
+   "opinion": "의견거절",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260331000928",
+ "fetchedAt": "2026-11-19"
+}

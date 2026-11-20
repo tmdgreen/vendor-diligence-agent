@@ -1,0 +1,81 @@
+{
+ "corpCode": "01153956",
+ "corpName": "컬리",
+ "stockCode": "",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 2367115187275,
+   "operatingIncome": 13100524714,
+   "netIncome": -15355064252,
+   "assets": 823277637237,
+   "liabilities": 744591725702,
+   "equity": 78685911535,
+   "currentAssets": 386076387691,
+   "currentLiabilities": 430758333247,
+   "cash": 145390028967,
+   "receivables": 3595231726,
+   "capitalStock": 4234457200,
+   "operatingCashFlow": 110225730370,
+   "interestExpense": 29958519081
+  },
+  {
+   "year": 2024,
+   "revenue": 2195645501699,
+   "operatingIncome": -18329152144,
+   "netIncome": -40605908113,
+   "assets": 835523929926,
+   "liabilities": 735296541534,
+   "equity": 100227388392,
+   "currentAssets": 338439939885,
+   "currentLiabilities": 398433827315,
+   "cash": 135173482774,
+   "receivables": 2839501719,
+   "capitalStock": 4223514400,
+   "operatingCashFlow": 121213199279,
+   "interestExpense": 20394817552
+  },
+  {
+   "year": 2023,
+   "revenue": 2077354737526,
+   "operatingIncome": -143640061103,
+   "netIncome": -196964556924,
+   "assets": 819900354148,
+   "liabilities": 812072419327,
+   "equity": 7827934821,
+   "currentAssets": 265178392065,
+   "currentLiabilities": 442149738005,
+   "cash": 138680820795,
+   "receivables": 2462668292,
+   "capitalStock": 3882836300,
+   "operatingCashFlow": -78506576402,
+   "interestExpense": 33580809297
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "안진회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260327000997",
+ "fetchedAt": "2026-11-19"
+}

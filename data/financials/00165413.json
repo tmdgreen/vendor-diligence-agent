@@ -1,0 +1,81 @@
+{
+ "corpCode": "00165413",
+ "corpName": "롯데케미칼",
+ "stockCode": "011170",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권및기타채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 18483005314922,
+   "operatingIncome": -943115729953,
+   "netIncome": -2476176326250,
+   "assets": 31117333049679,
+   "liabilities": 13488904582400,
+   "equity": 17628428467279,
+   "currentAssets": 7994480522770,
+   "currentLiabilities": 7673638328699,
+   "cash": 1870312010924,
+   "receivables": 1865049213128,
+   "capitalStock": 213877095000,
+   "operatingCashFlow": 488927763234,
+   "interestExpense": 418142626955
+  },
+  {
+   "year": 2024,
+   "revenue": 19894809600093,
+   "operatingIncome": -914535316186,
+   "netIncome": -1825555752135,
+   "assets": 34552330375053,
+   "liabilities": 14564385612175,
+   "equity": 19987944762878,
+   "currentAssets": 8983401895060,
+   "currentLiabilities": 8502342739017,
+   "cash": 2111786094945,
+   "receivables": 2174113828284,
+   "capitalStock": 213877095000,
+   "operatingCashFlow": 1542393674686,
+   "interestExpense": 448938494556
+  },
+  {
+   "year": 2023,
+   "revenue": 19564417813545,
+   "operatingIncome": -391637431583,
+   "netIncome": -39243085252,
+   "assets": 33476310224541,
+   "liabilities": 13243769644688,
+   "equity": 20232540579853,
+   "currentAssets": 9814399965942,
+   "currentLiabilities": 6523537562714,
+   "cash": 2701527699211,
+   "receivables": 2328537143757,
+   "capitalStock": 213877095000,
+   "operatingCashFlow": 789529232365,
+   "interestExpense": 332617428411
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "한영회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "한영회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "한영회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260312001296",
+ "fetchedAt": "2026-11-19"
+}

@@ -1,0 +1,81 @@
+{
+ "corpCode": "00108241",
+ "corpName": "농심",
+ "stockCode": "004370",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 3514315500097,
+   "operatingIncome": 183933032197,
+   "netIncome": 170054449646,
+   "assets": 3822122467403,
+   "liabilities": 990936608000,
+   "equity": 2831185859403,
+   "currentAssets": 1960196420067,
+   "currentLiabilities": 833082759238,
+   "cash": 253539960716,
+   "receivables": 322700751452,
+   "capitalStock": 30413210000,
+   "operatingCashFlow": 268700833743,
+   "interestExpense": 3210116398
+  },
+  {
+   "year": 2024,
+   "revenue": 3438730857998,
+   "operatingIncome": 163073931930,
+   "netIncome": 157630314203,
+   "assets": 3597461570702,
+   "liabilities": 924886441245,
+   "equity": 2672575129457,
+   "currentAssets": 1743739590775,
+   "currentLiabilities": 678174791731,
+   "cash": 140894116584,
+   "receivables": 308271886119,
+   "capitalStock": 30413210000,
+   "operatingCashFlow": 272544275630,
+   "interestExpense": 3632122545
+  },
+  {
+   "year": 2023,
+   "revenue": 3410559367259,
+   "operatingIncome": 212064743455,
+   "netIncome": 171469224876,
+   "assets": 3234751426458,
+   "liabilities": 793949665281,
+   "equity": 2440801761177,
+   "currentAssets": 1419816691135,
+   "currentLiabilities": 696493722736,
+   "cash": 142899537581,
+   "receivables": 292382383365,
+   "capitalStock": 30413210000,
+   "operatingCashFlow": 327223955699,
+   "interestExpense": 3334606435
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311003892",
+ "fetchedAt": "2026-11-19"
+}

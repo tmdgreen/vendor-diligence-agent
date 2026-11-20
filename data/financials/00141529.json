@@ -1,0 +1,81 @@
+{
+ "corpCode": "00141529",
+ "corpName": "오뚜기",
+ "stockCode": "007310",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권및기타채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 3674545422005,
+   "operatingIncome": 177251297728,
+   "netIncome": 72135661488,
+   "assets": 3641076426477,
+   "liabilities": 1438289345393,
+   "equity": 2202787081084,
+   "currentAssets": 1501272831876,
+   "currentLiabilities": 1047644993447,
+   "cash": 412685029869,
+   "receivables": 300745881396,
+   "capitalStock": 20039150000,
+   "operatingCashFlow": 218874761016,
+   "interestExpense": 28473785559
+  },
+  {
+   "year": 2024,
+   "revenue": 3539120882890,
+   "operatingIncome": 222014509063,
+   "netIncome": 137599993733,
+   "assets": 3597403088294,
+   "liabilities": 1415871492212,
+   "equity": 2181531596082,
+   "currentAssets": 1478843336530,
+   "currentLiabilities": 1028844274979,
+   "cash": 330729499629,
+   "receivables": 297517362205,
+   "capitalStock": 20039150000,
+   "operatingCashFlow": 361114671353,
+   "interestExpense": 40908511195
+  },
+  {
+   "year": 2023,
+   "revenue": 3454548477401,
+   "operatingIncome": 254893843560,
+   "netIncome": 161681368673,
+   "assets": 3496482529068,
+   "liabilities": 1432941729984,
+   "equity": 2063540799084,
+   "currentAssets": 1450698715577,
+   "currentLiabilities": 904873432138,
+   "cash": 324550590210,
+   "receivables": 296533577024,
+   "capitalStock": 20039150000,
+   "operatingCashFlow": 410835663970,
+   "interestExpense": 48207869159
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "성현회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "성현회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "성현회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318000621",
+ "fetchedAt": "2026-11-19"
+}

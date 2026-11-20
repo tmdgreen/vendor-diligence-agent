@@ -1,0 +1,81 @@
+{
+ "corpCode": "00126955",
+ "corpName": "삼양식품",
+ "stockCode": "003230",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 2351785163786,
+   "operatingIncome": 524188406060,
+   "netIncome": 388673674725,
+   "assets": 2196495586892,
+   "liabilities": 924955585739,
+   "equity": 1271540001153,
+   "currentAssets": 872933619483,
+   "currentLiabilities": 555472302432,
+   "cash": 332840576772,
+   "receivables": 185202492674,
+   "capitalStock": 37665075000,
+   "operatingCashFlow": 309287213625,
+   "interestExpense": 12079028058
+  },
+  {
+   "year": 2024,
+   "revenue": 1728015003746,
+   "operatingIncome": 344569150443,
+   "netIncome": 271255665463,
+   "assets": 1594782196967,
+   "liabilities": 766748854360,
+   "equity": 828033342607,
+   "currentAssets": 676663603748,
+   "currentLiabilities": 492425282678,
+   "cash": 334820783660,
+   "receivables": 136843205339,
+   "capitalStock": 37665075000,
+   "operatingCashFlow": 357904674484,
+   "interestExpense": 12306751463
+  },
+  {
+   "year": 2023,
+   "revenue": 1192914607980,
+   "operatingIncome": 147514090779,
+   "netIncome": 126591199633,
+   "assets": 1170302770895,
+   "liabilities": 593512454782,
+   "equity": 576790316113,
+   "currentAssets": 492073951173,
+   "currentLiabilities": 402005197765,
+   "cash": 218684811276,
+   "receivables": 79845300784,
+   "capitalStock": 37665075000,
+   "operatingCashFlow": 168099691095,
+   "interestExpense": 11276647147
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "안진회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "안진회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "안진회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001082",
+ "fetchedAt": "2026-11-19"
+}

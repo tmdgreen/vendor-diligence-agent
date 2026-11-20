@@ -1,0 +1,81 @@
+{
+ "corpCode": "00872984",
+ "corpName": "이마트",
+ "stockCode": "139480",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권및기타채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 28970388263858,
+   "operatingIncome": 322541170250,
+   "netIncome": 246338918347,
+   "assets": 33503615741472,
+   "liabilities": 19806707040792,
+   "equity": 13696908700680,
+   "currentAssets": 6229290633206,
+   "currentLiabilities": 10071429836031,
+   "cash": 1303365061491,
+   "receivables": 1476072239368,
+   "capitalStock": 139379095000,
+   "operatingCashFlow": 1318939140965,
+   "interestExpense": 511754870044
+  },
+  {
+   "year": 2024,
+   "revenue": 29020896860848,
+   "operatingIncome": 47098144142,
+   "netIncome": -573430173306,
+   "assets": 33930639265588,
+   "liabilities": 20845894370027,
+   "equity": 13084744895561,
+   "currentAssets": 10429147031287,
+   "currentLiabilities": 10804132770697,
+   "cash": 1775057447752,
+   "receivables": 1587301885159,
+   "capitalStock": 139379095000,
+   "operatingCashFlow": 1459819142428,
+   "interestExpense": 489542972397
+  },
+  {
+   "year": 2023,
+   "revenue": 29472247894459,
+   "operatingIncome": -46935431343,
+   "netIncome": -187466317757,
+   "assets": 33443865586475,
+   "liabilities": 19609634816186,
+   "equity": 13834230770289,
+   "currentAssets": 6387789258339,
+   "currentLiabilities": 10373853962124,
+   "cash": 1771232861623,
+   "receivables": 1807613040963,
+   "capitalStock": 139379095000,
+   "operatingCashFlow": 1135132806779,
+   "interestExpense": 397689971998
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001024",
+ "fetchedAt": "2026-11-19"
+}

@@ -1,0 +1,147 @@
+{
+  "_설명": "조직마다 바꿔 쓰는 판단 기준. 코드를 고치지 않고 이 파일만 바꾸면 된다.",
+  "financial": {
+    "debtRatio": {
+      "label": "부채비율",
+      "unit": "%",
+      "higherIsWorse": true,
+      "warn": 200,
+      "danger": 400
+    },
+    "currentRatio": {
+      "label": "유동비율",
+      "unit": "%",
+      "higherIsWorse": false,
+      "warn": 100,
+      "danger": 70
+    },
+    "interestCoverage": {
+      "label": "이자보상배율",
+      "unit": "배",
+      "higherIsWorse": false,
+      "warn": 1.5,
+      "danger": 1
+    },
+    "receivableDays": {
+      "label": "매출채권 회전일",
+      "unit": "일",
+      "higherIsWorse": true,
+      "warn": 90,
+      "danger": 150
+    },
+    "revenueGrowth": {
+      "label": "매출 증감률",
+      "unit": "%",
+      "higherIsWorse": false,
+      "warn": -10,
+      "danger": -30
+    },
+    "operatingMargin": {
+      "label": "영업이익률",
+      "unit": "%",
+      "higherIsWorse": false,
+      "warn": 0,
+      "danger": -10
+    }
+  },
+  "points": {
+    "warn": 1,
+    "danger": 3,
+    "signal": {
+      "low": 1,
+      "medium": 2,
+      "high": 4
+    },
+    "noFinancials": 5
+  },
+  "grades": [
+    {
+      "grade": "A",
+      "maxPoints": 1,
+      "label": "양호",
+      "paymentDays": 60,
+      "limitMonths": 3,
+      "limitEquityPct": 5,
+      "collateral": "불필요",
+      "note": "통상 조건으로 외상 거래 가능",
+      "reviewMonths": 12
+    },
+    {
+      "grade": "B",
+      "maxPoints": 4,
+      "label": "보통",
+      "paymentDays": 30,
+      "limitMonths": 1.5,
+      "limitEquityPct": 2,
+      "collateral": "불필요",
+      "note": "한도를 줄이고 반기마다 다시 점검",
+      "reviewMonths": 6
+    },
+    {
+      "grade": "C",
+      "maxPoints": 8,
+      "label": "주의",
+      "paymentDays": 30,
+      "limitMonths": 1,
+      "limitEquityPct": 1,
+      "collateral": "이행보증보험 또는 담보 필요",
+      "note": "담보를 확보한 범위에서만 외상 거래",
+      "reviewMonths": 3
+    },
+    {
+      "grade": "D",
+      "maxPoints": 9999,
+      "label": "위험",
+      "paymentDays": 0,
+      "limitMonths": 0,
+      "limitEquityPct": 0,
+      "collateral": "해당 없음",
+      "note": "선입금 또는 현금 결제만 가능",
+      "reviewMonths": 0
+    }
+  ],
+  "searchTopics": [
+    {
+      "id": "insolvency",
+      "label": "부도·회생·워크아웃",
+      "tool": "search_finance",
+      "query": "{name} 회생절차 워크아웃 부도 유동성 위기"
+    },
+    {
+      "id": "credit",
+      "label": "신용등급·자금조달",
+      "tool": "search_finance",
+      "query": "{name} 신용등급 하향 차입금 상환 자금조달"
+    },
+    {
+      "id": "audit",
+      "label": "감사의견·회계 이슈",
+      "tool": "search_finance",
+      "query": "{name} 감사의견 한정 의견거절 계속기업 불확실성 분식"
+    },
+    {
+      "id": "litigation",
+      "label": "소송·가압류",
+      "tool": "search_legal",
+      "query": "{name} 소송 가압류 손해배상 판결"
+    },
+    {
+      "id": "sanction",
+      "label": "제재·과징금·체납",
+      "tool": "search_legal",
+      "query": "{name} 과징금 제재 공정거래위원회 국세 체납 압수수색"
+    },
+    {
+      "id": "governance",
+      "label": "경영진·지배구조",
+      "tool": "search_web",
+      "query": "{name} 대표이사 변경 횡령 배임 최대주주 변경 경영권 분쟁"
+    },
+    {
+      "id": "payment",
+      "label": "대금 미지급·거래 분쟁",
+      "tool": "search_web",
+      "query": "{name} 대금 미지급 정산 지연 하도급 협력사 분쟁"
+    }
+  ]
+}

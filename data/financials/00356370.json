@@ -1,0 +1,81 @@
+{
+ "corpCode": "00356370",
+ "corpName": "LG생활건강",
+ "stockCode": "051900",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자비용",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 6355489977342,
+   "operatingIncome": 170688596929,
+   "netIncome": -85778983809,
+   "assets": 6869383558281,
+   "liabilities": 1299082229386,
+   "equity": 5570301328895,
+   "currentAssets": 2635393494720,
+   "currentLiabilities": 945031595946,
+   "cash": 1086333734803,
+   "receivables": 487543683002,
+   "capitalStock": 88589470000,
+   "operatingCashFlow": 446433049589,
+   "interestExpense": 20989855484
+  },
+  {
+   "year": 2024,
+   "revenue": 6811918756741,
+   "operatingIncome": 459045912180,
+   "netIncome": 203887730139,
+   "assets": 7405784092201,
+   "liabilities": 1719864001122,
+   "equity": 5685920091079,
+   "currentAssets": 2856048500735,
+   "currentLiabilities": 1295900316472,
+   "cash": 1253469878367,
+   "receivables": 576205113721,
+   "capitalStock": 88589470000,
+   "operatingCashFlow": 527630110092,
+   "interestExpense": 17267275143
+  },
+  {
+   "year": 2023,
+   "revenue": 6804839370129,
+   "operatingIncome": 486981224742,
+   "netIncome": 163524219980,
+   "assets": 7220285811725,
+   "liabilities": 1671359345925,
+   "equity": 5548926465800,
+   "currentAssets": 2429583603574,
+   "currentLiabilities": 1089658847771,
+   "cash": 910348037982,
+   "receivables": 529076344154,
+   "capitalStock": 88589470000,
+   "operatingCashFlow": 659061627244,
+   "interestExpense": 19366715671
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼일회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼일회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "한영회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316000985",
+ "fetchedAt": "2026-11-19"
+}

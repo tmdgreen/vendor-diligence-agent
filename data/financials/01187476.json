@@ -1,0 +1,81 @@
+{
+ "corpCode": "01187476",
+ "corpName": "오아시스",
+ "stockCode": "",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권및기타채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 564468852915,
+   "operatingIncome": 19102124581,
+   "netIncome": 14418214092,
+   "assets": 261527103751,
+   "liabilities": 80331238088,
+   "equity": 181195865663,
+   "currentAssets": 173845165693,
+   "currentLiabilities": 62621805971,
+   "cash": 29008236972,
+   "receivables": 16523298120,
+   "capitalStock": 2806874600,
+   "operatingCashFlow": 27277110466,
+   "interestExpense": 2328913953
+  },
+  {
+   "year": 2024,
+   "revenue": 517138418000,
+   "operatingIncome": 22359323912,
+   "netIncome": 22459967754,
+   "assets": 237814983440,
+   "liabilities": 70649467132,
+   "equity": 167165516308,
+   "currentAssets": 175639814760,
+   "currentLiabilities": 54138173493,
+   "cash": 148973252142,
+   "receivables": 13757767916,
+   "capitalStock": 2806874600,
+   "operatingCashFlow": 32107633656,
+   "interestExpense": 2681678289
+  },
+  {
+   "year": 2023,
+   "revenue": 475445676038,
+   "operatingIncome": 12747189063,
+   "netIncome": 13365543478,
+   "assets": 218050929639,
+   "liabilities": 74803128704,
+   "equity": 143247800935,
+   "currentAssets": 143566505013,
+   "currentLiabilities": 51824118184,
+   "cash": 118758749756,
+   "receivables": 11387874885,
+   "capitalStock": 2806874600,
+   "operatingCashFlow": 28756030765,
+   "interestExpense": 2125347487
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "한울회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "한울회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "한영회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260320000593",
+ "fetchedAt": "2026-11-19"
+}

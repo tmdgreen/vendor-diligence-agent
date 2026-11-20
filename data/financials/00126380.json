@@ -1,0 +1,81 @@
+{
+ "corpCode": "00126380",
+ "corpName": "삼성전자",
+ "stockCode": "005930",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 333605938000000,
+   "operatingIncome": 43601051000000,
+   "netIncome": 45206805000000,
+   "assets": 566942110000000,
+   "liabilities": 130621773000000,
+   "equity": 436320337000000,
+   "currentAssets": 247684612000000,
+   "currentLiabilities": 106411348000000,
+   "cash": 57856378000000,
+   "receivables": 51127642000000,
+   "capitalStock": 897514000000,
+   "operatingCashFlow": 85315148000000,
+   "interestExpense": 469730000000
+  },
+  {
+   "year": 2024,
+   "revenue": 300870903000000,
+   "operatingIncome": 32725961000000,
+   "netIncome": 34451351000000,
+   "assets": 514531948000000,
+   "liabilities": 112339878000000,
+   "equity": 402192070000000,
+   "currentAssets": 227062266000000,
+   "currentLiabilities": 93326299000000,
+   "cash": 53705579000000,
+   "receivables": 43623073000000,
+   "capitalStock": 897514000000,
+   "operatingCashFlow": 72982621000000,
+   "interestExpense": 675049000000
+  },
+  {
+   "year": 2023,
+   "revenue": 258935494000000,
+   "operatingIncome": 6566976000000,
+   "netIncome": 15487100000000,
+   "assets": 455905980000000,
+   "liabilities": 92228115000000,
+   "equity": 363677865000000,
+   "currentAssets": 195936557000000,
+   "currentLiabilities": 75719452000000,
+   "cash": 69080893000000,
+   "receivables": 36647393000000,
+   "capitalStock": 897514000000,
+   "operatingCashFlow": 44137427000000,
+   "interestExpense": 844691000000
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310002820",
+ "fetchedAt": "2026-11-19"
+}

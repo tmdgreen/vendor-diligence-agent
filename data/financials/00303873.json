@@ -1,0 +1,81 @@
+{
+ "corpCode": "00303873",
+ "corpName": "CJ CGV",
+ "stockCode": "079160",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권",
+ "interestBasis": "이자지급",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 2275369359771,
+   "operatingIncome": 96217499551,
+   "netIncome": -143369293871,
+   "assets": 4122622000546,
+   "liabilities": 3472281571266,
+   "equity": 650340429280,
+   "currentAssets": 1162481112371,
+   "currentLiabilities": 1757881312164,
+   "cash": 510729493797,
+   "receivables": 270900069359,
+   "capitalStock": 82790778000,
+   "operatingCashFlow": 214869995007,
+   "interestExpense": 177376815581
+  },
+  {
+   "year": 2024,
+   "revenue": 1957884214182,
+   "operatingIncome": 75933768898,
+   "netIncome": -175469437302,
+   "assets": 3997014314732,
+   "liabilities": 3420269607130,
+   "equity": 576744707602,
+   "currentAssets": 778878190773,
+   "currentLiabilities": 1703186270539,
+   "cash": 230935824211,
+   "receivables": 292767013373,
+   "capitalStock": 82790076500,
+   "operatingCashFlow": 190770411042,
+   "interestExpense": 133829738396
+  },
+  {
+   "year": 2023,
+   "revenue": 1545839243146,
+   "operatingIncome": 49065796701,
+   "netIncome": -123353396404,
+   "assets": 3194214710432,
+   "liabilities": 2932973509969,
+   "equity": 261241200463,
+   "currentAssets": 474595169749,
+   "currentLiabilities": 1032488905523,
+   "cash": 190527889247,
+   "receivables": 160281955260,
+   "capitalStock": 61215781000,
+   "operatingCashFlow": 180112447168,
+   "interestExpense": 130914611407
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "삼일회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "삼정회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260318001114",
+ "fetchedAt": "2026-11-19"
+}

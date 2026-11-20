@@ -1,0 +1,81 @@
+{
+ "corpCode": "01190568",
+ "corpName": "에이피알",
+ "stockCode": "278470",
+ "fsDiv": "CFS",
+ "reportYear": 2025,
+ "receivablesBasis": "매출채권및기타채권",
+ "interestBasis": "이자비용",
+ "years": [
+  {
+   "year": 2025,
+   "revenue": 1527344973381,
+   "operatingIncome": 365520628934,
+   "netIncome": 289654813287,
+   "assets": 771737546894,
+   "liabilities": 325937736580,
+   "equity": 445799810314,
+   "currentAssets": 545836014029,
+   "currentLiabilities": 238368989084,
+   "cash": 154350192148,
+   "receivables": 91114168447,
+   "capitalStock": 3892839000,
+   "operatingCashFlow": 341046397295,
+   "interestExpense": 3524349152
+  },
+  {
+   "year": 2024,
+   "revenue": 722753862301,
+   "operatingIncome": 122705544449,
+   "netIncome": 107590435967,
+   "assets": 565143563187,
+   "liabilities": 241619489197,
+   "equity": 323524073990,
+   "currentAssets": 286027445388,
+   "currentLiabilities": 145136758580,
+   "cash": 90366354391,
+   "receivables": 47947406079,
+   "capitalStock": 3812589000,
+   "operatingCashFlow": 79124161730,
+   "interestExpense": 3769628254
+  },
+  {
+   "year": 2023,
+   "revenue": 523809364559,
+   "operatingIncome": 104193724865,
+   "netIncome": 81546050952,
+   "assets": 287309488243,
+   "liabilities": 90360619465,
+   "equity": 196948868778,
+   "currentAssets": 219307995672,
+   "currentLiabilities": 82296421377,
+   "cash": 125334572532,
+   "receivables": 23005221709,
+   "capitalStock": 3637689000,
+   "operatingCashFlow": 107840961394,
+   "interestExpense": 1265495714
+  }
+ ],
+ "audit": [
+  {
+   "year": 2025,
+   "auditor": "현대회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2024,
+   "auditor": "현대회계법인",
+   "opinion": "적정의견",
+   "emphasis": ""
+  },
+  {
+   "year": 2023,
+   "auditor": "안진회계법인",
+   "opinion": "적정의견",
+   "emphasis": "(주1)"
+  }
+ ],
+ "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260323001257",
+ "fetchedAt": "2026-11-19"
+}
